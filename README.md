@@ -2,8 +2,8 @@
 
 **Innovative Solutions for Modern Agriculture**  
 *Team Name: Hacker's Minds* 🖥️🧠
-*Date: 7-8 September* 📅
-**Leader:** Nikunj Miglani
+*Date: 7-8 September* 📅 <br />
+**Leader:** Nikunj Miglani <br />
 **Members:** Aditya Tomar, Aryan Suri, Pradeepto Pal 
 ---
 
